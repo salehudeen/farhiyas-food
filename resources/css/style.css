@@ -222,10 +222,10 @@ header {
 }
 
 .logo {
-    height: 200px;
-    width: 250px;
+    height: 201px;
+    width: 243px;
     float: left;
-    margin-top: 14px;
+    margin-top: -83px;
 }
 
 .logo-black {
