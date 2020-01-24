@@ -223,17 +223,18 @@ header {
 
 .logo {
     height: 200px;
-    width: auto;
+    width: 250px;
     float: left;
     margin-top: 14px;
 }
 
 .logo-black {
     display: none;
-    height: 100px;
+    height: 200px;
     width: auto;
     float: left;
     margin: 5px 0;
+    background-color:black;
 }
 
 /* Main navi */
